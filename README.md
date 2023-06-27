@@ -6,4 +6,10 @@ Mantengo una creciente curiosidad por la tecnología y en búsqueda de nuevos re
 - 🔭 Actualmente estoy trabajando como estudiante de Laboratoria, en el aprendizaje continuo para la creación de distintos proyectos enfocados en JavaScript.
 - 🌱 Acualmente estoy aprendiendo sobre Node.js.
 
+**Estadisticas de GitHub** 📊
+
+![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindalobo&show_icons=true&theme=radical)
+
+**Los lenguajes con los que más he trabajado son los siguientes:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindalobo&layout=donut-vertical)](https://github.com/lindalobo/github-readme-stats)
